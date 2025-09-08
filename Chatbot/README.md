@@ -32,13 +32,13 @@ It demonstrates how to build, run, and compare chatbot pipelines with **Hugging 
 - Python 3.9+
 
 ### Run Chatbot
-
+```
 streamlit run deepseek_huggingface.py
-
+```
 OR
-
-python deepseek_ollama.py
-
+```
+streamlit run deepseek_ollama.py
+```
 
 
 
