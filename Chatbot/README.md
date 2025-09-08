@@ -37,7 +37,7 @@ streamlit run deepseek_huggingface.py
 ```
 OR
 ```
-python deepseek_ollama.py
+streamlit run deepseek_ollama.py
 ```
 
 
