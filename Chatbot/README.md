@@ -1,11 +1,15 @@
-# 🤖 Chatbot with Hugging Face & Ollama (LangChain)
+# Chatbot with Hugging Face & Ollama (LangChain)
 
 This repository contains two Python implementations of a simple chatbot using different frameworks.  
 It demonstrates how to build, run, and compare chatbot pipelines with **Hugging Face Transformers** and **LangChain + Ollama**.
 
 ---
 
-## 📂 Files
+## Demo
+
+![Animation Preview](./deepseek_demo.gif)
+
+## Files
 
 ### 1. `deepseek_huggingface.py`
 - Downloads and loads a **DeepSeek model** from Hugging Face.
@@ -19,14 +23,14 @@ It demonstrates how to build, run, and compare chatbot pipelines with **Hugging 
 
 ---
 
-## 🔑 Key Highlights
+## Key Highlights
 - Compare **direct Hugging Face usage** vs. **LangChain pipeline integration**.
 - Learn trade-offs in **deployment**, **flexibility**, and **application integration**.
 - Provides a starting point for both **research experiments** and **practical chatbot projects**.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9+
