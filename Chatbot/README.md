@@ -6,6 +6,7 @@ It demonstrates how to build, run, and compare chatbot pipelines with **Hugging 
 ---
 
 ## Demo
+Below is a preview of the chatbot.
 
 ![Animation Preview](./deepseek_demo.gif)
 
